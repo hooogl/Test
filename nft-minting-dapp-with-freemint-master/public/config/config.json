@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0x0DC029cE430c290FbabDD730dF01216Cb6307761",
+  "SCAN_LINK": "https://etherscan.io/address/0x62078f64B75F25B986eC53966f59485C2F9844D1",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "SEX",
+  "SYMBOL": "SEX",
+  "MAX_SUPPLY": 10000,
+  "FREE_SUPPLY": 33,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 10,
+  "MAX_PER_TX_FREE": 1,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
